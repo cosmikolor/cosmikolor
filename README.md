@@ -17,7 +17,9 @@ Electrical Engineering student at **Columbia University** (B.S. 2029). I build h
 
 ### Tools
 **Hardware:** KiCad · Altium · PCB design & bring-up · oscilloscope/DMM · soldering/rework
+
 **Embedded:** ESP32 · Arduino · Raspberry Pi · NVIDIA Jetson · UART · JTAG · Ethernet (RMII)
+
 **Robotics/Software:** Python · ROS 2 · PX4 · QGroundControl · BlueOS · Open3D · OpenCV · PyTorch · Linux · Docker · Git · Java
 
 ### Contact
