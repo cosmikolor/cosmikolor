@@ -9,7 +9,7 @@ Electrical Engineering student at **Columbia University** (B.S. 2029). I build h
 
 ### Highlights
 - 🏆 **Top 5 at Stanford DroneHacks 2026:** autonomous GPS-denied drone navigation on PX4 + NVIDIA Jetson. I built a ROS 2 localizer that matches the live stereo point cloud to a 3D model of the course (cutting drift from 35 cm to 2 cm in simulation), a localization simulator, and the team's flight-test and pre-flight tooling (30+ commits). → [Navless](https://github.com/RaagaSundar/Navless)
-- 📄 **IEEE publication (MIT URTC 2024):** metrics for optimising LiDAR scan parameters, using an ICP-based SLAM pipeline on Boston Dynamics' Spot. → [paper](LINK-TO-IEEE-XPLORE)
+- 📄 **IEEE publication (MIT URTC 2024):** metrics for optimising LiDAR scan parameters, using an ICP-based SLAM pipeline on Boston Dynamics' Spot. → [paper](https://ieeexplore.ieee.org/document/10937609)
 
 ### Other projects
 - 🎤 **[Karacroakie](https://github.com/cosmikolor/peddieHacks)** (PeddieHacks): AI karaoke coach. It separates vocals from a song, tracks your pitch with a neural pitch tracker (CREPE) and scores your intonation against the original.
